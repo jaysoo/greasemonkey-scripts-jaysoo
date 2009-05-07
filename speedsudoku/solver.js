@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Sudoku Solver
-// @namespace      jack
+// @namespace      jackhsu.com
 // @include        http://www.speedsudoku.com/game.php*
 // ==/UserScript==
 
